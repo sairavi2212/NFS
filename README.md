@@ -1,4 +1,4 @@
-# Network File System (NFS) Implementation
+# Network File System (NFS)
 
 This project implements a distributed Network File System with three main components:
 
